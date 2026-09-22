@@ -1,0 +1,28 @@
+# 컴파일 결과
+*.class
+out/
+bin/
+build/
+target/
+
+# 아카이브
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# 로그
+*.log
